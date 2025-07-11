@@ -1,6 +1,5 @@
-# AVALIAÇÃO 3: Gerenciador de Portfólio de Ativos Financeiros
+Gerenciador de Portfólio de Ativos Financeiros
 
-Este projeto foi desenvolvido como parte da Avaliação 3 da disciplina de Programação Orientada a Objetos.
 
 **Participantes:**
 * Lucas Yago Barankievicz
